@@ -1,0 +1,5 @@
+DELIMITER //
+CREATE PROCEDURE film()
+BEGIN
+SELECT *  FROM film;
+END //

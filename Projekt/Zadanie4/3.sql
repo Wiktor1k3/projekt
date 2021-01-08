@@ -1,0 +1,5 @@
+CREATE VIEW `3` AS
+SELECT Reżyser,Tytuł
+FROM Film
+WHERE (RokProdukcji BETWEEN 2018 AND 2021) 
+ORDER BY Reżyser;

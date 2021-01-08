@@ -1,0 +1,6 @@
+DELIMITER //
+CREATE TRIGGER seans_d
+BEFORE INSERT ON Id_Film
+FOR EACH ROW 
+set NEW.seans= '1';
+END //

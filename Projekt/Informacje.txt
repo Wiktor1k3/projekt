@@ -1,0 +1,1 @@
+Projekt ma przechowywać dane kina.Można tu sprawdzić np.kto kupił bilet, na jaki seans, sprawdzić kiedy odbedzię się seans, w jakiej sali,jaki bedzie puszczony film, o której godzinie się zacznie seans oraz jak długi będzie film.

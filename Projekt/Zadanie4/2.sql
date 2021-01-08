@@ -1,0 +1,5 @@
+CREATE VIEW `2` AS
+SELECT *
+FROM Seans
+WHERE MONTH(Data) = 01 AND Id_Film = 3 
+ORDER BY Godzina;
